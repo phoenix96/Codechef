@@ -1,0 +1,410 @@
+aaaa
+aaab
+aaac
+aaba good
+aabb good
+aabc good hlk 2
+aaca good
+aacb good
+aacc good hlk 2
+abaa good hlk 1
+abab good hlk 1
+abac good hlk 0
+abba good hlk 2
+abbb good hlk 2
+abbc good hlk 1
+abca good hlk 2
+abcb good hlk 2
+abcc good hlk 1
+acaa good hlk 2
+acab good hlk 2
+acac good hlk 1
+acba good
+acbb good
+acbc good hlk 2
+acca good
+accb good
+accc good hlk 2
+baaa good
+baab good
+baac good hlk 2
+baba good
+babb good
+babc good
+baca good
+bacb good
+bacc good
+bbaa good hlk 2
+bbab good hlk 2
+bbac good hlk 1
+bbba
+bbbb
+bbbc
+bbca good
+bbcb good
+bbcc good hlk 2
+bcaa good
+bcab good
+bcac good hlk 2
+bcba good
+bcbb good
+bcbc good
+bcca good
+bccb good
+bccc good
+caaa good
+caab good
+caac good hlk 2
+caba good
+cabb good
+cabc good
+caca good
+cacb good
+cacc good
+cbaa good hlk 2
+cbab good hlk 2
+cbac good hlk 1
+cbba good
+cbbb good
+cbbc good hlk 2
+cbca good
+cbcb good
+cbcc good hlk 2
+ccaa good
+ccab good
+ccac good hlk 2
+ccba good
+ccbb good
+ccbc good
+ccca
+cccb
+cccc
+29
+aaaa
+aaab
+aaac
+aaba good hlk 1
+aabb good hlk 2
+aabc good hlk 2
+aaca good hlk 2
+aacb good
+aacc good
+abaa good hlk 2
+abab good
+abac good
+abba good hlk 1
+abbb good hlk 2
+abbc good hlk 2
+abca good hlk 2
+abcb good
+abcc good
+acaa good hlk 1
+acab good hlk 2
+acac good hlk 2
+acba good hlk 0
+acbb good hlk 1
+acbc good hlk 1
+acca good hlk 1
+accb good hlk 2
+accc good hlk 2
+baaa good
+baab good
+baac good
+baba good hlk 2
+babb good
+babc good
+baca good
+bacb good
+bacc good
+bbaa good
+bbab good
+bbac good
+bbba
+bbbb
+bbbc
+bbca good
+bbcb good
+bbcc good
+bcaa good hlk 2
+bcab good
+bcac good
+bcba good hlk 1
+bcbb good hlk 2
+bcbc good hlk 2
+bcca good hlk 2
+bccb good
+bccc good
+caaa good
+caab good
+caac good
+caba good hlk 2
+cabb good
+cabc good
+caca good
+cacb good
+cacc good
+cbaa good
+cbab good
+cbac good
+cbba good hlk 2
+cbbb good
+cbbc good
+cbca good
+cbcb good
+cbcc good
+ccaa good hlk 2
+ccab good
+ccac good
+ccba good hlk 1
+ccbb good hlk 2
+ccbc good hlk 2
+ccca
+cccb
+cccc
+30
+aaaa
+aaab
+aaac
+aaba good
+aabb good
+aabc good
+aaca good
+aacb good
+aacc good
+abaa good hlk 1
+abab good hlk 2
+abac good hlk 2
+abba good hlk 2
+abbb good
+abbc good
+abca good hlk 2
+abcb good
+abcc good
+acaa good hlk 2
+acab good
+acac good
+acba good
+acbb good
+acbc good
+acca good
+accb good
+accc good
+baaa good hlk 2
+baab good
+baac good
+baba good
+babb good
+babc good
+baca good
+bacb good
+bacc good
+bbaa good hlk 1
+bbab good hlk 2
+bbac good hlk 2
+bbba
+bbbb
+bbbc
+bbca good hlk 2
+bbcb good
+bbcc good
+bcaa good hlk 2
+bcab good
+bcac good
+bcba good
+bcbb good
+bcbc good
+bcca good
+bccb good
+bccc good
+caaa good hlk 1
+caab good hlk 2
+caac good hlk 2
+caba good hlk 2
+cabb good
+cabc good
+caca good hlk 2
+cacb good
+cacc good
+cbaa good hlk 0
+cbab good hlk 1
+cbac good hlk 1
+cbba good hlk 1
+cbbb good hlk 2
+cbbc good hlk 2
+cbca good hlk 1
+cbcb good hlk 2
+cbcc good hlk 2
+ccaa good hlk 1
+ccab good hlk 2
+ccac good hlk 2
+ccba good hlk 2
+ccbb good
+ccbc good
+ccca
+cccb
+cccc
+30
+aaaa
+aaab
+aaac
+aaba good hlk 1
+aabb good hlk 1
+aabc good hlk 0
+aaca good hlk 2
+aacb good hlk 2
+aacc good hlk 1
+abaa good
+abab good
+abac good hlk 2
+abba good hlk 2
+abbb good hlk 2
+abbc good hlk 1
+abca good
+abcb good
+abcc good hlk 2
+acaa good
+acab good
+acac good hlk 2
+acba good hlk 2
+acbb good hlk 2
+acbc good hlk 1
+acca good
+accb good
+accc good hlk 2
+baaa good
+baab good
+baac good hlk 2
+baba good hlk 2
+babb good hlk 2
+babc good hlk 1
+baca good
+bacb good
+bacc good hlk 2
+bbaa good
+bbab good
+bbac good
+bbba
+bbbb
+bbbc
+bbca good
+bbcb good
+bbcc good
+bcaa good
+bcab good
+bcac good
+bcba good
+bcbb good
+bcbc good hlk 2
+bcca good
+bccb good
+bccc good
+caaa good
+caab good
+caac good hlk 2
+caba good hlk 2
+cabb good hlk 2
+cabc good hlk 1
+caca good
+cacb good
+cacc good hlk 2
+cbaa good
+cbab good
+cbac good
+cbba good
+cbbb good
+cbbc good hlk 2
+cbca good
+cbcb good
+cbcc good
+ccaa good
+ccab good
+ccac good
+ccba good
+ccbb good
+ccbc good hlk 2
+ccca
+cccb
+cccc
+29
+aaaa
+aaab
+aaac
+aaba good hlk 2
+aabb good
+aabc good
+aaca good hlk 1
+aacb good hlk 2
+aacc good hlk 2
+abaa good hlk 1
+abab good hlk 2
+abac good hlk 2
+abba good hlk 1
+abbb good hlk 2
+abbc good hlk 2
+abca good hlk 0
+abcb good hlk 1
+abcc good hlk 1
+acaa good hlk 2
+acab good
+acac good
+acba good hlk 2
+acbb good
+acbc good
+acca good hlk 1
+accb good hlk 2
+accc good hlk 2
+baaa good
+baab good
+baac good
+baba good
+babb good
+babc good
+baca good hlk 2
+bacb good
+bacc good
+bbaa good hlk 2
+bbab good
+bbac good
+bbba
+bbbb
+bbbc
+bbca good hlk 1
+bbcb good hlk 2
+bbcc good hlk 2
+bcaa good
+bcab good
+bcac good
+bcba good
+bcbb good
+bcbc good
+bcca good hlk 2
+bccb good
+bccc good
+caaa good
+caab good
+caac good
+caba good
+cabb good
+cabc good
+caca good hlk 2
+cacb good
+cacc good
+cbaa good hlk 2
+cbab good
+cbac good
+cbba good hlk 2
+cbbb good
+cbbc good
+cbca good hlk 1
+cbcb good hlk 2
+cbcc good hlk 2
+ccaa good
+ccab good
+ccac good
+ccba good
+ccbb good
+ccbc good
+ccca
+cccb
+cccc
+30
